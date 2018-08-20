@@ -1,0 +1,15 @@
+{
+  "name": "toast-vue-mobile",
+  "version": "1.0.0",
+  "description": "vue toast text and icon",
+  "keywords": [
+    "toast",
+    "mobile toast",
+    "toast vue",
+    "vue toast",
+    "vue icon toast"
+  ],
+  "main": "index.js",
+  "author": "wangchunling",
+  "license": "ISC"
+}
