@@ -1,29 +1,27 @@
 # toast-vue-mobile
 
-------
 
-toast-vue-mobile 
-标签： vue2.0
+> toast-vue-mobile
+  vue2.0
+
 
 ### 1. Install
-
-$ npm install vue-swipe
-
-
+```sh
+$ npm install toast-vue-mobile
+```
+----
 
 ### 2. Usage
 
 
 > **toasts(ref="toasts", :type='toastIcon', :show='toastShow')**
- 
-
 
 
 ### 3. props
 
- 
+
 | name        | type   |  default  | required |
-| --------   | -----:  | :----:  |
+| --------   | -----:  | :----:  | -----: |
 | show     | Boolean |   true   | false
 | type     | String |   toastText   | false
 | timeout     | Number |   1600   | false
@@ -34,4 +32,10 @@ $ npm install vue-swipe
 |  function name        | argument   | description
 | --------   | -----:  | :----:  |
 | getType     | type = toastText,toastIcon |      type
-| showToast     | @param text, timeout|      @returns {Promise}此处输入代码
+| showToast     | @param text, timeout|      @returns {Promise}
+
+License
+----
+
+MIT
+
