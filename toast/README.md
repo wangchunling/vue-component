@@ -20,6 +20,7 @@ $ npm install toast-vue-mobile
 
 ### 3. props
 
+
 | name        | type   |  default  | required |
 | --------   | -----:  | :----:  | -----: |
 | show     | Boolean |   true   | false
@@ -35,14 +36,14 @@ $ npm install toast-vue-mobile
 | getType     | type = toastText,toastIcon |      type
 | showToast     | @param text, timeout|      @returns {Promise}
 
-
 ### 5. demo
-* props type is 'toastIcon':
+#### props type is 'toastIcon':
 ![toastText](./img/icon.gif)
-* props type is 'toastText':
+---
+#### props type is 'toastText':
 ![toastIcon](./img/text.gif)
 
-
+---
 License
 ----
 
