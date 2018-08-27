@@ -29,10 +29,10 @@ $ npm install toast-vue-mobile
 | text     | String |   正在提交   | false
 
 ### 4. demo
-* props type is 'toastIcon':
+#### props type is 'toastIcon':
 ![toastText](./img/icon.gif)
 ---
-* props type is 'toastText':
+#### props type is 'toastText':
 ![toastIcon](./img/text.gif)
 
 ---
