@@ -30,9 +30,9 @@ $ npm install toast-vue-mobile
 
 ### 4. demo
 * props type is 'toastIcon':
-![toastText](./img/icon.png)
+![toastText](./img/icon.gif)
 * props type is 'toastText':
-![toastIcon](./img/icon.png)
+![toastIcon](./img/icon.gif)
 
 ### 5. methods
 
