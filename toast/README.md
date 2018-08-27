@@ -11,6 +11,7 @@ $ npm install toast-vue-mobile
 ```
 ----
 
+
 ### 2. Usage
 
 
@@ -27,7 +28,13 @@ $ npm install toast-vue-mobile
 | timeout     | Number |   1600   | false
 | text     | String |   正在提交   | false
 
-### 3. methods
+### 4. demo
+* props type is 'toastIcon':
+![toastText](./img/icon.png)
+* props type is 'toastText':
+![toastIcon](./img/icon.png)
+
+### 5. methods
 
 |  function name        | argument   | description
 | --------   | -----:  | :----:  |
